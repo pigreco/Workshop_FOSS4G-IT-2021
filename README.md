@@ -116,7 +116,7 @@ non puoi fare a meno delle espressioni di QGIS?
 Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 
 - [slide](https://docs.google.com/presentation/d/e/2PACX-1vS7sCUuKDkBP5GfQZhaDCAzi9bKmFZyPsgIdJhp7xd8hDUQizQqffuW9sCwcQe3lxAjyaHkaQYP8H9e/pub?start=false&loop=false&delayms=3000)
-- dati
+- [dati](https://github.com/pigreco/Workshop_FOSS4G-IT-2021/raw/main/vettori.zip)
 
 [↑ torna su ↑](#workshop_foss4g-it-2021)
 
@@ -156,7 +156,8 @@ Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 # Cosa c'è in questo repo
 
 - cartella `imgs` contiene le immagini utilizzate nel progetto .qgs;
-- cartella `risorse` contiene i file utilizzati nel progetto, come:
+- cartella `risorse` contiene i file utilizzati nel progetto, come;
+- vettori.zip : limiti amministrativi ISTAT 2021;
 - file `license` è il file che definisce la licenza del repository;
 - file `README.md` è questo file, con le info.
 
