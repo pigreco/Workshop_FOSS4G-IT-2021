@@ -4,7 +4,7 @@ in progress...
 
 Workshop al **FOSS4G-IT-2021**: Alla scoperta delle espressioni di **QGIS**: come e dove usarle.
 
-Per domande clicca su PARTECIPA: <br>
+Per domande o semplicmente per lasciare un pensiero clicca su PARTECIPA: <br>
 [![](https://img.shields.io/badge/discussioni-partecipa-brightgreen?style=for-the-badge&logo=github)](https://github.com/pigreco/Workshop_FOSS4G-IT-2021/discussions)
 
 ---
