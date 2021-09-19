@@ -25,6 +25,7 @@ Per domande o semplicmente <br>per lasciare un pensiero clicca su PARTECIPA: <br
   - [Sitografia](#sitografia)
 - [Riferimenti utili](#riferimenti-utili)
 - [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
+- [LICENZA DATI](#licenza-dati)
 - [risultati](#risultati)
 
 <!-- /TOC -->
@@ -112,7 +113,7 @@ non puoi fare a meno delle espressioni di QGIS?
    3. generatore di geometrie (stile e label);
    4. generare geometrie tramite espressioni (processing).
 
-[↑ torna su ↑](#workshop_foss4g-it-2021)
+[↑ torna su ↑](#workshop-foss4g-it-2021)
 
 ## QGIS e le espressioni ESEMPI
 
@@ -120,6 +121,7 @@ Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 
 - [slide](https://docs.google.com/presentation/d/e/2PACX-1vS7sCUuKDkBP5GfQZhaDCAzi9bKmFZyPsgIdJhp7xd8hDUQizQqffuW9sCwcQe3lxAjyaHkaQYP8H9e/pub?start=false&loop=false&delayms=3000)
 - [dati](https://github.com/pigreco/Workshop_FOSS4G-IT-2021/raw/main/vettori.zip)
+- [esempi](esempi.md)
 
 [↑ torna su ↑](#workshop_foss4g-it-2021)
 
@@ -142,7 +144,7 @@ Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 * **gitlab**: <https://gitlab.com/pigr3co>
 * **Canale Telegram** : <https://t.me/pigrecoinfinito>
 
-[↑ torna su ↑](#workshop_foss4g-it-2021)
+[↑ torna su ↑](#workshop-foss4g-it-2021)
 
 # Riferimenti utili
 
@@ -154,17 +156,21 @@ Le espressioni di QGIS permettono di velocizzare il lavoro in QGIS
 - **Visual Studio Code** : <https://code.visualstudio.com/>
 - **OpenDataSicilia** : <http://opendatasicilia.it/>
 
-[↑ torna su ↑](#workshop_foss4g-it-2021)
+[↑ torna su ↑](#workshop-foss4g-it-2021)
 
 # Cosa c'è in questo repo
 
 - cartella `imgs` contiene le immagini utilizzate nel progetto .qgs;
-- cartella `risorse` contiene i file utilizzati nel progetto, come;
+- cartella `risorse` contiene i file utilizzati nel progetto
 - vettori.zip : limiti amministrativi ISTAT 2021;
 - file `license` è il file che definisce la licenza del repository;
 - file `README.md` è questo file, con le info.
 
-[↑ torna su ↑](#workshop_foss4g-it-2021)
+[↑ torna su ↑](#workshop-foss4g-it-2021)
+
+# LICENZA DATI
+
+NB: Tutti i dati prodotti dall’Istituto nazionale di statistica (ISTAT) sono rilasciati sotto licenza [Creative Commons (CC BY 3.0 IT)](https://www.istat.it/it/note-legali): è possibile riprodurre, distribuire, trasmettere e adattare liberamente dati e analisi dell’Istituto nazionale di statistica, anche a scopi commerciali, a condizione che venga citata la fonte.
 
 # risultati
 
