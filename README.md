@@ -1,7 +1,5 @@
 # Workshop FOSS4G-IT 2021
 
-in progress...
-
 Workshop al **FOSS4G-IT-2021**: Alla scoperta delle espressioni di **QGIS**: come e dove usarle.
 
 Per domande o semplicmente <br>per lasciare un pensiero clicca su PARTECIPA: <br>
