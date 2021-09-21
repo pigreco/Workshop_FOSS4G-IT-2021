@@ -247,4 +247,10 @@ Daniel_Borriello:
 	E' stato tutto molto interessante! Grazie :)
 ```
 
+![](./imgs/scree_02.png)
+
 ![](./imgs/scree_01.png)
+
+![](./imgs/scree_03.png)
+
+![](./imgs/scree_04.png)
