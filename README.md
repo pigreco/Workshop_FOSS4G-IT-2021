@@ -25,6 +25,7 @@ Per domande o semplicmente <br>per lasciare un pensiero clicca su PARTECIPA: <br
 - [Cosa c'è in questo repo](#cosa-cè-in-questo-repo)
 - [LICENZA DATI](#licenza-dati)
 - [risultati](#risultati)
+  - [domande fatte](#domande-fatte)
 
 <!-- /TOC -->
 
@@ -172,4 +173,76 @@ NB: Tutti i dati prodotti dall’Istituto nazionale di statistica (ISTAT) sono r
 
 # risultati
 
-- circa 75 utenti
+- max 75 partecipanti
+
+## domande fatte
+
+```
+Alessandro Capannelli:
+   salve volevo chiedere per un caso specifico...un esempio di sovrapposizione di diversi piani urbanistici...chiedo se è possibile tramite formule creare un carotaggio dei dati dei piani urbanistici mediante selezione del perimentro catastale di una unità immobiliare per Foglio e numero di particella...
+```
+
+```
+Andrea Ghersi:
+	Ciao Totò e grazie per il sempre ottimo lavoro! Purtroppo i widget non sembrano funzionare con qgis per Mac (ho il 3.16 LTR) so che te ne avevo già accennato tempo fa, ma per caso hai delle novità sul perché di questo problema? Ti ringrazio!
+```
+
+```
+Dario Zampini:
+	Ciao, come si chiama il plug in per aggiungere i grafici nel layout di stampa?
+```
+
+```
+Alessandro Albieri:
+	A me è sfuggito prima come ha messo filtro su etichetta per mostrare solo poligono selezionato.
+```
+
+```
+Andrea Ghersi:
+	Totò per utilizzare gli array può essere molto utile usare il plugin “arrayPlus” o sbaglio?
+```
+
+```
+Eleonora Mastroforti:
+	Posso avere il link dove scaricare i dati di esempio dell'ultimo esempio? grazie
+```
+
+```
+Riccardo Montalbano:
+	grazie mille, utilissimo come al solito!
+```
+
+```
+Francesco Fiermonte  a  Tutti:
+	A proposito della "mancanza di immagini" nell'help del calcolatore dei campi, non si potrebbe aggiungere - nella descrizione di ciascuna funzione, sempre che il rimando abbia senso - un link puntale al manuale / alla documentazione ufficiale (che, peraltro, e' fatta benissimo) in cui viene esplicitata una descrizione estesa? Forse aiuterebbe...
+```
+
+```
+Andrea Fanelli:
+	Ottimo, utilissimo.
+```
+
+```
+Andrea Rosa:
+	Grazie. Molto interessante e utile.
+```
+
+```
+Dario Zampini:
+	grazie mille, molto interessante.
+```
+
+```
+Claudio Catucci:
+	Grazie, ottimo workshop!
+```
+
+```
+Alessandro Albieri:
+	E' una funzione molto utile e l'ho usata per salvarmi espressioni personalizzate. Grazie. Workshop veramente molto utile. Saluti a tutti
+```
+
+```
+Daniel_Borriello:
+	E' stato tutto molto interessante! Grazie :)
+```
