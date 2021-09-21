@@ -213,7 +213,7 @@ Riccardo Montalbano:
 ```
 
 ```
-Francesco Fiermonte  a  Tutti:
+Francesco Fiermonte:
 	A proposito della "mancanza di immagini" nell'help del calcolatore dei campi, non si potrebbe aggiungere - nella descrizione di ciascuna funzione, sempre che il rimando abbia senso - un link puntale al manuale / alla documentazione ufficiale (che, peraltro, e' fatta benissimo) in cui viene esplicitata una descrizione estesa? Forse aiuterebbe...
 ```
 
