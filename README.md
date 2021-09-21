@@ -246,3 +246,5 @@ Alessandro Albieri:
 Daniel_Borriello:
 	E' stato tutto molto interessante! Grazie :)
 ```
+
+![](./imgs/scree_01.png)
