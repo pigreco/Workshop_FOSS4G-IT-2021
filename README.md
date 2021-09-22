@@ -179,12 +179,16 @@ NB: Tutti i dati prodotti dall’Istituto nazionale di statistica (ISTAT) sono r
 
 ```
 Alessandro Capannelli:
-   salve volevo chiedere per un caso specifico...un esempio di sovrapposizione di diversi piani urbanistici...chiedo se è possibile tramite formule creare un carotaggio dei dati dei piani urbanistici mediante selezione del perimentro catastale di una unità immobiliare per Foglio e numero di particella...
+   salve volevo chiedere per un caso specifico...un esempio di sovrapposizione di diversi piani urbanistici...
+   chiedo se è possibile tramite formule creare un carotaggio dei dati dei piani urbanistici mediante selezione 
+   del perimentro catastale di una unità immobiliare per Foglio e numero di particella...
 ```
 
 ```
 Andrea Ghersi:
-	Ciao Totò e grazie per il sempre ottimo lavoro! Purtroppo i widget non sembrano funzionare con qgis per Mac (ho il 3.16 LTR) so che te ne avevo già accennato tempo fa, ma per caso hai delle novità sul perché di questo problema? Ti ringrazio!
+	Ciao Totò e grazie per il sempre ottimo lavoro! Purtroppo i widget non sembrano funzionare con qgis per Mac 
+   (ho il 3.16 LTR) so che te ne avevo già accennato tempo fa, ma per caso hai delle novità 
+   sul perché di questo problema? Ti ringrazio!
 ```
 
 ```
@@ -214,7 +218,10 @@ Riccardo Montalbano:
 
 ```
 Francesco Fiermonte:
-	A proposito della "mancanza di immagini" nell'help del calcolatore dei campi, non si potrebbe aggiungere - nella descrizione di ciascuna funzione, sempre che il rimando abbia senso - un link puntale al manuale / alla documentazione ufficiale (che, peraltro, e' fatta benissimo) in cui viene esplicitata una descrizione estesa? Forse aiuterebbe...
+	A proposito della "mancanza di immagini" nell'help del calcolatore dei campi, non si potrebbe 
+   aggiungere - nella descrizione di ciascuna funzione, sempre che il rimando abbia senso - un link 
+   puntale al manuale / alla documentazione ufficiale (che, peraltro, e' fatta benissimo) in cui viene
+   esplicitata una descrizione estesa? Forse aiuterebbe...
 ```
 
 ```
@@ -239,7 +246,8 @@ Claudio Catucci:
 
 ```
 Alessandro Albieri:
-	E' una funzione molto utile e l'ho usata per salvarmi espressioni personalizzate. Grazie. Workshop veramente molto utile. Saluti a tutti
+	E' una funzione molto utile e l'ho usata per salvarmi espressioni personalizzate. Grazie.
+   Workshop veramente molto utile. Saluti a tutti
 ```
 
 ```
