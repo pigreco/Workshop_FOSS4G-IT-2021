@@ -1,5 +1,7 @@
 # Esempi
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5565494.svg)](https://doi.org/10.5281/zenodo.5565494)
+
 Sotto gli esempi proposti durante la parte pratica
 
 <!-- TOC -->
